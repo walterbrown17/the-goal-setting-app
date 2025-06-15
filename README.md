@@ -2,11 +2,12 @@
 
 ## Project Description
 
-The Goal Setting App is a decentralized smart contract built on the Stacks blockchain using Clarity language. This innovative application empowers users to set, track, and achieve their personal goals with complete transparency and immutable progress tracking. Users can create measurable goals with specific targets, deadlines, and categories, while maintaining a permanent record of their journey toward success.
+The Goal Setting App is a decentralized smart contract built on the Stacks blockchain using Clarity. It enables users to define, track, and achieve personal goals with full transparency and tamper-proof progress tracking.
 
-The contract leverages blockchain technology to provide an uncensorable, trustless goal-tracking system where progress is permanently recorded and cannot be manipulated or deleted. This creates accountability through transparency and provides users with a verifiable history of their achievements. The system supports quantifiable goals with progress tracking, automatic completion detection, and detailed progress histories.
+Users can create specific, measurable goals with target values, deadlines, and categories. All progress is recorded immutably on-chain, ensuring a verifiable, permanent history that promotes accountability and prevents manipulation.
 
-Key features include goal creation with target values and deadlines, incremental progress updates with notes, automatic completion tracking, and comprehensive progress history. The application is perfect for fitness goals, financial targets, learning objectives, business milestones, and personal development challenges.
+Core features include goal creation with defined targets and timelines, incremental progress updates with optional notes, automatic goal completion detection, and detailed progress logs. Ideal for tracking fitness milestones, financial goals, educational achievements, business objectives, and personal growth.
+
 
 ## Project Vision
 
