@@ -58,7 +58,7 @@ We envision a future where critical events, corporate milestones, academic achie
 ## Contract Address
 
 **Testnet Deployment**: `STGPBEW1DRVNA80A863AYGPGNJ91SYNBYKTZK0QB.goal-setting-app`
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/16bacb54-deb1-4b25-bb4c-fd66449f064b)
 
 
 ### Contract Functions
