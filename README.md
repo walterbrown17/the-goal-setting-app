@@ -58,6 +58,8 @@ We envision a future where critical events, corporate milestones, academic achie
 ## Contract Address
 
 **Testnet Deployment**: `STGPBEW1DRVNA80A863AYGPGNJ91SYNBYKTZK0QB.goal-setting-app`
+![Uploading image.png…]()
+
 
 ### Contract Functions
 
@@ -111,3 +113,5 @@ We welcome contributions! Please read our contributing guidelines and submit pul
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
+
+_Built with ❤️ on Stacks Blockchain_
